@@ -19,6 +19,6 @@ Adding regularization to the segmentation architecture made it capture even the 
 The model showcases high performance with precise change detection capabilities, evaluated on metrics like precision, recall, F1 score, and IoU.
 
 ## Contact
-For inquiries, please contact Dheeraj NVS at v.vadlamani@outlook.com.
+For inquiries, please contact Subhash at v.vadlamani@outlook.com.
 
 *Note: For detailed methodology, experimental setups, and in-depth analysis, refer to the full project report.*
